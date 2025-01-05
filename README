@@ -1,0 +1,3 @@
+Rodar Typerscript no node JS:
+
+executar comando: npx tsx .\index.ts
