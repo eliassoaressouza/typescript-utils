@@ -29,3 +29,4 @@ Para executar o projeto, utilize o comando:
 npx  tsx .\index.ts
 
 
+  <p align="center">Feito em <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building to Elias Soares de Souza.</p>
