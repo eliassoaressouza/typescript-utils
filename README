@@ -1,8 +1,31 @@
 # Typerscript UTILS
 
-<p align="center">Rodar Typerscript no Node JS:</p>
+## Descrição
 
-<p align="center">🚀 lib para aprender recursos do typerscript</p>
+Rodar Typerscript no Node JS.
+lib para aprender recursos do typerscript
+## Instalação
 
-<p>executar comando: npx tsx .\index.ts</p>
+Para instalar o projeto, siga estes passos:
+
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/eliassoaressouza/typescript-utils
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd typescript
+    ```
+3. Instale as dependências:
+    ```sh
+    npm install
+    ```
+
+## Uso
+
+Para executar o projeto, utilize o comando:
+
+```sh
+npx  tsx .\index.ts
+
 
