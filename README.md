@@ -1,9 +1,9 @@
 # Typerscript UTILS
 
 ## Descrição
-
 Rodar Typerscript no Node JS.
 lib para aprender recursos do typerscript
+
 ## Instalação
 
 Para instalar o projeto, siga estes passos:
@@ -27,6 +27,6 @@ Para executar o projeto, utilize o comando:
 
 ```sh
 npx  tsx .\index.ts
-
+```
 
   <p align="center">Feito em <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building to Elias Soares de Souza.</p>
