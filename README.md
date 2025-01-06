@@ -23,10 +23,12 @@ Para instalar o projeto, siga estes passos:
 
 ## Uso
 
-Para executar o projeto, utilize o comando:
-
+Os arquivos .ts estão em pastas em cada arquivo dem a  descrição de como executar:
+ex:
 ```sh
-npx  tsx .\index.ts
+    arquivo \datas\index.ts
+    npx tsx .\datas\index.ts
+
 ```
 
   <p align="center">Feito em <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building to Elias Soares de Souza.</p>

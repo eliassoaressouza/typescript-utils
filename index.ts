@@ -1,4 +1,4 @@
-
+//npx  tsx .\index.ts
 
 
 function execute() {
